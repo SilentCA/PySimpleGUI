@@ -1146,7 +1146,7 @@ Success #1 has to happen immediately.  Installing and then running your first GU
 
 > Beginners and Advanced Together
 
-Design an interface that both the complete beginner can understand and use that has enough depth that an advanced programmer can make some very nice looking GUIs amd not feel like they're playing with a "toy".
+Design an interface that both the complete beginner can understand and use that has enough depth that an advanced programmer can make some very nice looking GUIs and not feel like they're playing with a "toy".
 
 > Success After Success
 
